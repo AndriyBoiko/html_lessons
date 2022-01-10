@@ -1,0 +1,23 @@
+body{
+    background-color: #616b71;
+}
+
+h1{
+    color: #d7e019;
+}
+h2{
+    background-color: aliceblue;
+    color: #195fe0;
+}
+
+
+
+.img-size{
+    width: 400px;
+    height: 400px;
+}
+.button{
+    background: rebeccapurple;
+    color: #d7e019;
+    font-size: 20px;
+}
