@@ -1,0 +1,31 @@
+body{
+    padding: 0;
+}
+h1{
+    background-color: #892726;
+    text-align: center;
+    color: #fff;
+}
+div{
+    box-sizing: border-box;
+    height: 100px;
+    font-size: 20px;
+}
+.block-lorem1{
+    background-color: #C0C0C0;
+
+    padding: 20px;
+}
+.block-lorem2{
+    background-color: #6395EC;
+    padding: 40px 0;
+}
+.square{
+    width: 200px;
+    height: 200px;
+    background-color: #6BBA67;
+}
+.square-radius{
+    border-radius: 20px;
+    background-color: #8886AB;
+}
