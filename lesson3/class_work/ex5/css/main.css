@@ -1,0 +1,41 @@
+.position__color {
+    background-color: silver;
+    height: 200px;
+    margin: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 28px;
+}
+
+.block-a {
+    height: 100px;
+}
+
+.container {
+    display: flex;
+    width: 100%;
+}
+
+.wrap {
+    width: 100%;
+}
+
+.wrap-group {
+    display: flex;
+}
+
+.block-B {
+    width: 99%;
+
+}
+
+.block-F {
+    width: 27%;
+    height: 414px;
+}
+
+.block-c {
+    width: 33%;
+}

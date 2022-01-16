@@ -1,0 +1,44 @@
+.position__color{
+    background-color: #9E9E9E;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.block-a{
+    height: 150px;
+
+}
+.container{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.wrap{
+    display: flex;
+    width: 100%;
+
+}
+.wrap-group{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+
+
+}
+.block_b{
+    margin: 5px 5px 0 0  ;
+    height: 247px;
+    width: 95%;
+
+}
+.wrap-group__h{
+    display: flex;
+    flex-direction: column;
+    width: 35%;
+}
+.block_h{
+    margin-top: 5px;
+    height: 500px;
+    width: 100%;
+
+}

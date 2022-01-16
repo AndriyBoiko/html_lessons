@@ -1,0 +1,37 @@
+.container{
+    width: 600px;
+    margin: 0 auto;
+}
+.wrap{
+    display: flex;
+    justify-content: space-between;
+}
+.position__color{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: darkblue;
+    color: #fff;
+    font-size: 28px;
+}
+
+.home{
+    height: 400px;
+    width: 295px;
+
+}
+.about{
+    margin-left: 10px;
+}
+.kabobs{
+    height: 200px;
+    margin: 10px 0;
+}
+/*.wrap{*/
+/*    display: flex;*/
+/*}*/
+.card{
+    width: 195px;
+    height: 200px;
+    /*margin-left: 20px;*/
+}

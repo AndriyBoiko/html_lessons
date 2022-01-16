@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+}
+
+.widgets {
+    height: 350px;
+}
+
+.block-slider {
+    margin: 20px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.card {
+    width: 435px;
+    height: 150px;
+
+}
+
+.contact {
+    height: 350px;
+}
+
+.block-color {
+    background-color: #1b02cc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 28px;
+}
