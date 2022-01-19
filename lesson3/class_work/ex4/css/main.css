@@ -1,11 +1,19 @@
+
+div{
+    box-sizing: border-box;
+
+}
 .position__color{
     background-color: #9E9E9E;
     display: flex;
     justify-content: center;
     align-items: center;
+
 }
 .block-a{
     height: 150px;
+    margin-bottom: 10px;
+
 
 }
 .container{
@@ -16,29 +24,30 @@
 .wrap{
     display: flex;
     width: 100%;
+    gap: 10px;
 
 }
 .wrap-group{
+    box-sizing: border-box;
     display: flex;
     flex-direction: column;
-    width: 100%;
+    width: 33.4%;
+    gap: 10px;
 
 
 }
 .block_b{
-    margin: 5px 5px 0 0  ;
-    height: 247px;
-    width: 95%;
+    height: 250px;
+    width: 100%;
 
 }
 .wrap-group__h{
     display: flex;
     flex-direction: column;
-    width: 35%;
+    width: 24%;
 }
 .block_h{
-    margin-top: 5px;
-    height: 500px;
+    height: 510px;
     width: 100%;
-
+    margin-left: 10px;
 }

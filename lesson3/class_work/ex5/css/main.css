@@ -1,41 +1,49 @@
 .position__color {
     background-color: silver;
     height: 200px;
-    margin: 7px;
     display: flex;
     justify-content: center;
     align-items: center;
     color: #fff;
     font-size: 28px;
 }
-
-.block-a {
-    height: 100px;
+body{
+    margin: 0;
+    padding: 10px;
 }
-
 .container {
     display: flex;
     width: 100%;
 }
 
+.block-header {
+    height: 100px;
+    margin-bottom: 10px;
+}
+
 .wrap {
     width: 100%;
+}
+.block-B {
+    width: 100%;
+    margin-bottom: 10px;
 }
 
 .wrap-group {
     display: flex;
+    gap: 10px;
 }
 
-.block-B {
-    width: 99%;
 
+.block-small {
+    box-sizing: border-box;
+    width: 33.4%;
 }
 
 .block-F {
-    width: 27%;
-    height: 414px;
+    box-sizing: border-box;
+    width: 25%;
+    height: 410px;
+    margin-left:10px;
 }
 
-.block-c {
-    width: 33%;
-}

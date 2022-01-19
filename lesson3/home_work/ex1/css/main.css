@@ -6,6 +6,10 @@
     padding: 10px;
 }
 
+.h350{
+    height: 350px;
+}
+
 .block-head{
     width: 100%;
     height: 200px;
@@ -19,12 +23,10 @@
 }
 .content_A{
     width: 70%;
-    height: 350px;
     margin-right: 10px;
 }
 .content_B{
     width: 30%;
-    height: 350px;
 }
 .block-color{
     background-color: #a7a2a2;

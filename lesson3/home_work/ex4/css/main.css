@@ -2,25 +2,24 @@
     margin: 0;
 }
 
-.widgets {
+.h350{
     height: 350px;
 }
 
 .block-slider {
+    box-sizing: border-box;
     margin: 20px 0;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
+    gap: 20px;
 }
 
 .card {
-    width: 435px;
+    width: 90%;
     height: 150px;
-
 }
 
-.contact {
-    height: 350px;
-}
+
 
 .block-color {
     background-color: #1b02cc;
