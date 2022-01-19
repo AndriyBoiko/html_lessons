@@ -1,0 +1,155 @@
+* {
+    list-style: none;
+    outline: none;
+    text-decoration: none;
+    margin: 0;
+}
+
+.container {
+    width: 1200px;
+    margin: auto;
+}
+
+.header {
+    height: 80px;
+    background-color: silver;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.block-header {
+    height: 30px;
+    width: 100px;
+    margin: 0 10px;
+    text-align: center;
+
+}
+
+.block-text {
+    margin: 5px;
+}
+
+.hover {
+    min-height: 100px;
+    width: 200px;
+    background-color: red;
+    position: relative;
+    overflow: hidden;
+    z-index: -2;
+    display: flex;
+    justify-content: center;
+    top: -54px;
+    left: -10px;
+}
+
+#hov:hover {
+    z-index: 1;
+    width: 190px;
+    color: rgba(100, 100, 100, 0);
+}
+
+.li-block:first-child {
+    margin-bottom: 20%;
+}
+
+ul {
+    padding: 0;
+    width: 100%;
+}
+
+.li-block {
+    width: 80%;
+    height: 30px;
+    background-color: orange;
+    margin: 10% 10%;
+}
+
+/*First screen*/
+.screen {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    border: 5px solid black;
+    background-color: #ffffff;
+    padding: 2%;
+    height: 500px;
+}
+
+/*second screen*/
+
+.screen-content {
+    width: 100%;
+    height: 100%;
+    background-color: #06BCD4;
+}
+
+.wrap-block {
+    box-sizing: border-box;
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+
+.wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 5px solid black;
+    padding: 2%;
+}
+
+.wrap-vertical {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.card {
+    width: 95%;
+    height: 200px;
+    margin: 2%;
+    background-color: #06BCD4;
+}
+
+/*Screen 3*/
+.card-screan-3 {
+    height: 100%;
+}
+
+.btn-block {
+    height: 30px;
+    width: 10%;
+}
+
+/*Screen 4*/
+
+.card-screen-4 {
+    height: 100px;
+}
+
+.card-screen-right {
+    height: 400px;
+}
+
+
+/*Last Screen*/
+.footer {
+    flex-direction: column;
+    align-items: center;
+    height: 200px;
+}
+
+.footer_up {
+    height: 40px;
+    width: 90%;
+    margin-bottom: 20px;
+}
+
+.footer_down {
+    height: 40px;
+    width: 30%;
+}

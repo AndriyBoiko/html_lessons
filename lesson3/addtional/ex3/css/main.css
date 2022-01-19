@@ -1,0 +1,257 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: red;
+}
+
+.container {
+    margin: auto;
+    width: 1200px;
+}
+
+/*
+color silver - #C0C0C0FF
+color dark-silver #756F6FFF
+*/
+
+/*One for All*/
+
+
+/*end one for all*/
+.bgc-dark-base {
+    background-color: #756F6FFF;
+}
+
+.bgc-slv-base {
+    background-color: #C0C0C0FF;
+}
+.brr-5px{
+    border-radius: 5px;
+}
+
+/*Header*/
+
+.header {
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+
+.cirle {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    margin-left: 2%;
+
+}
+
+.menu {
+    width: 90%;
+    display: flex;
+    justify-content: end;
+    gap: 2%;
+}
+
+.menu-blocks {
+    height: 20px;
+    width: 10%;
+}
+
+/*End Header*/
+/*Start First Screen*/
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+    gap: 15px;
+}
+
+.block {
+    width: 50%;
+    height: 20px;
+}
+
+.block:first-child {
+    width: 40%;
+}
+
+.input {
+    margin-top: 2%;
+    height: 30px;
+    width: 40%;
+    background-color: #fff;
+    border-radius: 15px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.btn {
+    height: 40px;
+    width: 40%;
+    border-radius: 20px;
+}
+/*End first screen*/
+
+/* Start Second Screen*/
+.wrap{
+    background-color: #fff;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.block-title{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+.title-screen {
+    margin-top: 4%;
+    width: 75%;
+    height:20px;
+}
+.subtext-screen{
+    height: 15px;
+    width: 55%;
+}
+.text-screen{
+    margin-top: 0;
+    margin-bottom:5%;
+    height: 15px;
+    width: 35%;
+}
+
+/*grid*/
+.grid{
+    box-sizing: border-box;
+    width: 100%;
+}
+.row{
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    gap: 1%;
+
+}
+.row>div{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.h250-w33{
+    height: 250px;
+    width: 33.33%;
+}
+.bottom-row>div:first-child{
+    width: 68%;
+}
+.bottom-row{
+    margin-top: 1%;
+}
+.revers{
+    flex-direction: row-reverse;
+}
+/*End second screen*/
+
+/*Start Three Screen*/
+.card{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    margin-left: 10%;
+    margin-bottom: 2%;
+
+
+}
+.card-img{
+    width: 20%;
+    height: 150px;
+
+
+}
+.card-info{
+    width: 30%;
+    margin-left: 2%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+.card-info>div>.title-screen{
+    margin-top: 0;
+}
+.card-info>div>div{
+    height: 15px;
+}
+.card-info>div>p{
+    height: 10px;
+}
+
+.btn-card{
+    height: 20px;
+    width: 20%;
+}
+
+
+
+/*End Three Screen*/
+
+/*Start Footer*/
+
+
+.footer{
+    display: flex;
+    justify-content: center;
+}
+.wrap-menu{
+    width: 90%;
+    height: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    box-sizing: border-box;
+}
+
+.list-elements{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+.footer-header{
+    width: 100%;
+    height: 20px;
+    margin-top: 15px;
+}
+.footer-list{
+    width: 20%;
+}
+.element{
+    width: 80%;
+    height: 15px;
+    margin-top: 15px;
+
+}
+.cirle-header{
+    width: 100%;
+}
+.footer-circle{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.list-circle{
+    display: flex;
+    margin-top: 5px;
+}
