@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="356d848a-c522-499d-8764-254eaf939907" name="Changes" comment="first work">
+      <change afterPath="$PROJECT_DIR$/.idea/html_lessons.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_01_2022_12_56_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_01_2022_12_56__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/img/241970459_855086815142650_3985368411252283168_n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/class_work/ex1/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/class_work/ex1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/class_work/ex1/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/class_work/ex1/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/class_work/ex1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/home_work/ex1/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/home_work/ex1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/home_work/ex2/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/home_work/ex2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/home_work/ex3/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/home_work/ex3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/home_work/ex4/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/home_work/ex4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/home_work/ex1/css/mian.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/home_work/ex1/css/mian.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="23WMUM2czHSUQmIBDSw72T4Khvf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ToolWindowStructure.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\my comp\IdeaProjects\html_lessons" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\my comp\IdeaProjects\html_lessons\lesson5\home_work" />
+      <recent name="C:\Users\my comp\IdeaProjects\html_lessons\lesson5\home_work\ex1" />
+      <recent name="C:\Users\my comp\IdeaProjects\html_lessons\lesson3\home_work\ex1" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="356d848a-c522-499d-8764-254eaf939907" name="Changes" comment="" />
+      <created>1641845405598</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641845405598</updated>
+      <workItem from="1641845405894" duration="2121000" />
+      <workItem from="1641895798162" duration="2060000" />
+      <workItem from="1641897908200" duration="879000" />
+      <workItem from="1641898845484" duration="419000" />
+      <workItem from="1642050577217" duration="5944000" />
+      <workItem from="1642086790168" duration="218000" />
+      <workItem from="1642267359063" duration="595000" />
+      <workItem from="1642283022168" duration="13000" />
+      <workItem from="1642310436105" duration="5000" />
+      <workItem from="1642310493275" duration="6683000" />
+      <workItem from="1642317280582" duration="15682000" />
+      <workItem from="1642348174914" duration="13118000" />
+      <workItem from="1642402959233" duration="9794000" />
+      <workItem from="1642509485852" duration="2795000" />
+      <workItem from="1642568934162" duration="7881000" />
+      <workItem from="1642582585605" duration="34994000" />
+      <workItem from="1642704357932" duration="3768000" />
+      <workItem from="1642746474401" duration="126000" />
+      <workItem from="1642746633739" duration="41000" />
+      <workItem from="1642746792583" duration="26000" />
+      <workItem from="1642746912625" duration="147000" />
+      <workItem from="1642747095677" duration="42000" />
+      <workItem from="1642747188511" duration="56000" />
+    </task>
+    <task id="LOCAL-00001" summary="first work">
+      <created>1641847440013</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1641847440013</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first work">
+      <created>1641897376614</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1641897376614</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first work">
+      <created>1641897458224</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1641897458224</updated>
+    </task>
+    <task id="LOCAL-00004" summary="first work">
+      <created>1641897774894</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1641897774894</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add directory img">
+      <created>1641898072015</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1641898072015</updated>
+    </task>
+    <task id="LOCAL-00006" summary="clas work">
+      <created>1641898333752</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1641898333752</updated>
+    </task>
+    <task id="LOCAL-00007" summary="first work">
+      <created>1641899049562</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1641899049562</updated>
+    </task>
+    <task id="LOCAL-00008" summary="lesso 2">
+      <created>1642056415568</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1642056415568</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add additionl work">
+      <created>1642595267308</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1642595267308</updated>
+    </task>
+    <task id="LOCAL-00010" summary="optimized cod">
+      <created>1642600454149</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1642600454149</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="add directory img" />
+    <MESSAGE value="clas work" />
+    <MESSAGE value="first work" />
+    <MESSAGE value="lesso 2" />
+    <MESSAGE value="add additionl work" />
+    <MESSAGE value="optimized cod" />
+    <option name="LAST_COMMIT_MESSAGE" value="optimized cod" />
+  </component>
+</project>
