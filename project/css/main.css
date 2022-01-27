@@ -58,7 +58,7 @@ a {
 }
 
 .logo {
-    background-image: url('../img/logo.svg');
+    background-image: url('../imges/logo.svg');
     margin-left: 2%;
     height: 52px;
     width: 100px;
@@ -87,7 +87,7 @@ a {
     bottom: 50%;
     right: -16px;
     transform: translateY(50%);
-    background-image: url('../img/V.svg');
+    background-image: url('../imges/V.svg');
     width: 8px;
     height: 5px;
 }
@@ -344,15 +344,15 @@ h3 {
 }
 
 .card-icon__1 {
-    background-image: url('../img/message.svg');
+    background-image: url('../imges/message.svg');
 }
 
 .card-icon__2 {
-    background-image: url('../img/videocam.svg');
+    background-image: url('../imges/videocam.svg');
 }
 
 .card-icon__3 {
-    background-image: url('../img/speed.svg');
+    background-image: url('../imges/speed.svg');
 }
 
 .text-card {
@@ -437,7 +437,7 @@ h3 {
     bottom: 50%;
     right: 0;
     transform: translateY(50%);
-    background-image: url('../img/Vector.svg');
+    background-image: url('../imges/Vector.svg');
     background-repeat: no-repeat;
     width: 23px;
     height: 18px;
@@ -446,7 +446,7 @@ h3 {
 
 .after-vector__down::after {
     transform: translateY(50%) rotate(180deg);
-    background-image: url('../img/Vector.svg');
+    background-image: url('../imges/Vector.svg');
 }
 
 .learn-more__after {
@@ -454,7 +454,7 @@ h3 {
 }
 
 .learn-more__after::after {
-    background-image: url('../img/rowright.svg');
+    background-image: url('../imges/rowright.svg');
     height: 15px;
     width: 28px;
     left: 100px;
@@ -542,7 +542,7 @@ hr {
 }
 
 .img-position {
-    background-image: url("../img/66.png");
+    background-image: url("../imges/66.png");
     background-repeat: no-repeat;
 }
 
@@ -621,13 +621,13 @@ li{
     background-repeat: no-repeat;
 }
 .icon_foo__1{
-    background-image: url("../img/face.svg")
+    background-image: url("../imges/face.svg")
 }
 .icon_foo__2{
-    background-image: url("../img/in.svg")
+    background-image: url("../imges/in.svg")
 }
 .icon_foo__3{
-    background-image: url("../img/tvit.svg")
+    background-image: url("../imges/tvit.svg")
 }
 .f1{
     padding-left: 220px;
