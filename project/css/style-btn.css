@@ -1,0 +1,52 @@
+@import "main.css";
+.btn{
+    box-sizing: content-box;
+    background-color: transparent;
+    border-radius: 4px;
+    cursor: pointer;
+    border: 1px solid #0B2330;
+    padding: 0 20px;
+    height: 54px;
+}
+.form-start>.btn{
+    border: none;
+}
+.btn_yellow{
+    background-color: var(--color-yellow-btn);
+    border: none;
+    color: #0B2330;
+
+}
+.btn__dark{
+    background: #0B2330;
+    color: var(--color-white-main);
+    width: 150px;
+
+
+}
+
+.card-but{
+    width: 144px;
+    height: 54px;
+}
+
+.card-modef{
+    margin: 7% 0;
+    display: flex;
+    grid-gap: 9px;
+}
+.card-modef>button{
+    background-color:  #E7EAEB;
+    color:  #61757E;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    padding: 2px 8px;
+    height: 23px;
+    border: none;
+
+}
+.hos:hover{
+    background-color: #FE9F28;
+}
